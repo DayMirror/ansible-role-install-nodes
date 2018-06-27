@@ -1,0 +1,8 @@
+---
+- name: "Installing node package '{{ item }}'"
+  npm:
+    name: {{ item }}
+    state: latest
+    global: yes
+  with_items: {{ nodes }}
+...
