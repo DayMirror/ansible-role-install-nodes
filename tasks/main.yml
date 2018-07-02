@@ -1,5 +1,5 @@
 ---
-- name: "Installing node package '{{ item }}'"
+- name: "Installing node packages"
   npm:
     name: "{{ item }}"
     state: latest
