@@ -15,4 +15,5 @@ nodes:
   - protractor # e2e web test platform
   - eslint # advanced and flexible linter for js
   - tslint # linter for typescript
+  - htmlhint # html code static analyzer tool
 ...
