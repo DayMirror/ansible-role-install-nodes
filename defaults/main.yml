@@ -17,4 +17,5 @@ nodes:
   - tslint # linter for typescript
   - htmlhint # html code static analyzer tool
   - chalk-cli # terminal string styling
+  - node-notifier-cli # cli of node-notifier package to show native notifications
 ...
