@@ -16,4 +16,5 @@ nodes:
   - eslint # advanced and flexible linter for js
   - tslint # linter for typescript
   - htmlhint # html code static analyzer tool
+  - chalk-cli # terminal string styling
 ...
