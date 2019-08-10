@@ -6,8 +6,8 @@ nodes:
   - trash-cli # put files and folders in trash instead of permanently removing
   - david # tells when dependencies are out of date
   - ntl # interactive cli menu to list and run npm tasks
-  - @angular/cli # angular
-  - @angular-devkit/schematics-cli # schematics (templating engine used by angular)
+  - '@angular/cli' # angular
+  - '@angular-devkit/schematics-cli' # schematics (templating engine used by angular)
   - gulp # task manager
   - karma-cli # tool for executing tests in the real browsers
   - mocha # tests runner
