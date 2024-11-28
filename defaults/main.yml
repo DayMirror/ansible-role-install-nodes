@@ -3,7 +3,6 @@ nodes:
   - typescript
   - pm2 # process management and load-balancing tool to run node.js server
   - nodemon # monitors for changes in js code and restarts the server
-  - trash-cli # put files and folders in trash instead of permanently removing
   - david # tells when dependencies are out of date
   - ntl # interactive cli menu to list and run npm tasks
   - '@angular/cli' # angular
